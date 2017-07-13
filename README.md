@@ -4,7 +4,7 @@ Here is a hot data identification algorithm called HDCat, which can accurately c
 
 ## The HDCat paper
 
-Chen J, Deng Y, Huang Z. HDCat: Effectively Identifying Hot Data in Large-Scale I/O Streams with Enhanced Temporal Locality[C]//International Conference on Algorithms and Architectures for Parallel Processing. Springer, Cham, 2015: 120-133. 
+Chen, Jiahao, Yuhui Deng, and Zhan Huang. "HDCat: Effectively Identifying Hot Data in Large-Scale I/O Streams with Enhanced Temporal Locality." International Conference on Algorithms and Architectures for Parallel Processing. Springer, Cham, 2015.
 
 ## Setting up experimental environment
 ### 1) Trace
