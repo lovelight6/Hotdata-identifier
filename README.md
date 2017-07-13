@@ -8,7 +8,7 @@ Chen J, Deng Y, Huang Z. HDCat: Effectively Identifying Hot Data in Large-Scale 
 
 ## Setting up experimental environment
 ### 1) Trace
-The trace in the paper is downloaded at http://iotta.snia.org/tracetypes/3,.You need to add a folder in the computer D drive TestData to store the trace. As shown below:
+The trace in the paper is downloaded at http://iotta.snia.org/tracetypes/3,. You need to add a folder in the computer D drive TestData to store the trace. As shown below:
 
 ![Image text](https://github.com/love-light/imag/blob/master/image/1499952174(1).png)
 
