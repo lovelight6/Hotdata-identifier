@@ -9,8 +9,8 @@ Chen J, Deng Y, Huang Z. HDCat: Effectively Identifying Hot Data in Large-Scale 
 ## Implementation
 
 ### 1) Trace
-
 The trace in the paper is downloaded at http://iotta.snia.org/tracetypes/3,.You need to add a folder in the computer D drive TestData to store the trace. As shown below:
 ![Image text](https://github.com/love-light/imag/blob/master/1%EF%BC%89.png)
+![Image text](https://github.com/love-light/imag/blob/master/1%EF%BC%892.png)
 
 
