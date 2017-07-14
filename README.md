@@ -21,7 +21,7 @@ Program running environment need to install the database mySQL, and use VC or VS
 
 ![Image text](https://github.com/love-light/imag/blob/master/image/2%EF%BC%892.png)
 
-### 3) Operating environment
+### 3) Experimental operation
 Test program interface as follows, first load the data, and then use the various strategies to test.
 
 ![Image text](https://github.com/love-light/imag/blob/master/image/1499952469(1).png)
