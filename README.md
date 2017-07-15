@@ -1,7 +1,6 @@
  # HDCat
 
-We propose and design a hot data identification algorithm called HDCat. The algorithm can accurately identify hot data and capture the temporal locality of data access patterns. It achieves a high hit ratio with low cache capacity and runtime overhead. 
-We also implement two state-of-the-art hot data identification algorithms including Multi-hash algorithm and the two-level LRU for comparison.
+We propose and design a hot data identification algorithm called HDCat. The algorithm can accurately identify hot data and capture the temporal locality of data access patterns. It achieves a high hit ratio with low cache capacity and runtime overhead.We also implement two state-of-the-art hot data identification algorithms including Multi-hash algorithm and the two-level LRU for comparison.
 
 
 ## The HDCat paper
